@@ -13,8 +13,10 @@ c1 <- c(c1103, c1110, c1117, c1124, c1201,
         c1531, c1607, c1616, c1620, c1623,
         c1629, c1707, c1714, c1721, c1731,
         c1807, c1815, c1824, c1906, c1914,
-        c1921, c1926, c1a03, c1a09, c1a18, c1a31)
-
+        c1921, c1926, c1a03, c1a09, c1a18,
+        c1a31, c1b07, c1b21, c1b28, c1c06,
+        c1c19, c1c31)
+o
 ## Mysterious cases of counting, why -0.01 the error and when?
 prec <- c1[c1 != -0.01]
 ## Clean workplace
